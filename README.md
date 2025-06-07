@@ -1,12 +1,55 @@
-# React + Vite
+![Screenshot 2025-06-07 234849](https://github.com/user-attachments/assets/2d38f0d0-a8db-405c-9983-644921324fa7)# 🌤️ Weather Widget App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Weather App built using **React** and the **OpenWeatherMap API**. Enter any city name to view real-time weather details such as temperature, humidity, and weather conditions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### 📍 Home Interface
+![Screenshot 2025-06-07 234819](https://github.com/user-attachments/assets/2aa1670d-7055-42da-a751-c565c25d4ec7)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📍 Hot weather area
+![Screenshot 2025-06-07 234849](https://github.com/user-attachments/assets/4d366cc9-0ebb-428a-a61b-1c80a0c53920)
+
+### 📍 Cold weather area
+![Screenshot 2025-06-07 235118](https://github.com/user-attachments/assets/a263664f-d401-40f8-8260-c3f90e36a766)
+
+### 📍 Rainy weather area
+![Screenshot 2025-06-07 235118](https://github.com/user-attachments/assets/007c5bfd-3407-4f4d-913b-31b207f04f81)
+
+### 📍 If city not found
+![Screenshot 2025-06-07 235153](https://github.com/user-attachments/assets/275fdf2a-9562-40d8-923f-387680ef855c)
+
+---
+
+## 🚀 Features
+
+- 🔎 Search weather by city name
+- 🌡️ Display current temperature, humidity, and weather status
+- 🎨 Clean and responsive UI with Material-UI components
+- ⚙️ Error handling for invalid city names
+- 🧩 Uses OpenWeatherMap API for real-time data
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, JavaScript
+- **Styling:** Material UI, CSS
+- **API:** OpenWeatherMap API
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/souravmalik8499/Weather_Widget-Using-React-.git
+cd Weather_Widget-Using-React-
+npm install
+npm run dev
+
+
+👨‍💻 Author
+Sourav Malik
+
