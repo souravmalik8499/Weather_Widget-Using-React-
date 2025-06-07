@@ -1,7 +1,8 @@
-![Screenshot 2025-06-07 234849](https://github.com/user-attachments/assets/2d38f0d0-a8db-405c-9983-644921324fa7)# 🌤️ Weather Widget App
+# 🌤️ Weather Widget App
 
 A simple and responsive Weather App built using **React** and the **OpenWeatherMap API**. Enter any city name to view real-time weather details such as temperature, humidity, and weather conditions.
 
+[🔗 Live Demo](https://weather-widget-using-react.vercel.app/)
 ---
 
 ## 📸 Screenshots
@@ -52,4 +53,7 @@ npm run dev
 
 👨‍💻 Author
 Sourav Malik
+🌐 LinkedIn Profile
+🌍 Live Demo
+
 
