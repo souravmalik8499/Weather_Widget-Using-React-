@@ -7,7 +7,7 @@ A simple and responsive Weather App built using **React** and the **OpenWeatherM
 
 ## 👨‍💻 Author
 
-[**Sourav Malik**](https://www.linkedin.com/in/sourav-malik-2458572ab)
+[**🌐Sourav Malik**](https://www.linkedin.com/in/sourav-malik-2458572ab)
 ---
 
 ## 📸 Screenshots
@@ -54,12 +54,5 @@ git clone https://github.com/souravmalik8499/Weather_Widget-Using-React-.git
 cd Weather_Widget-Using-React-
 npm install
 npm run dev
-
----
-
-### 👨‍💻 Author
-Sourav Malik
-
-[🌐Sourav Malik](www.linkedin.com/in/sourav-malik-2458572ab)
 
 
