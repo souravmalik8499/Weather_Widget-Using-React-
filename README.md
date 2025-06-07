@@ -5,6 +5,11 @@ A simple and responsive Weather App built using **React** and the **OpenWeatherM
 [🔗 Live Demo](https://weather-widget-using-react.vercel.app/)
 ---
 
+## 👨‍💻 Author
+
+[**Sourav Malik**](https://www.linkedin.com/in/sourav-malik-2458572ab)
+---
+
 ## 📸 Screenshots
 
 ### 📍 Home Interface
