@@ -50,10 +50,11 @@ cd Weather_Widget-Using-React-
 npm install
 npm run dev
 
+---
 
-👨‍💻 Author
+### 👨‍💻 Author
 Sourav Malik
-🌐 LinkedIn Profile
-🌍 Live Demo
+
+[🌐Sourav Malik](www.linkedin.com/in/sourav-malik-2458572ab)
 
 
